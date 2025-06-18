@@ -1,4 +1,4 @@
-# APIClient_Combine
+# APIClient_Combine using MVVM + SwiftUI View sample usage
 
 This repository contains a **generic HTTP network layer** using **Combine** in Swift. It enables sending HTTP requests and decoding JSON responses into Swift models. It manages:
 
